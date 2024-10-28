@@ -21,7 +21,7 @@ spec:
     spec:
       containers:
         - name: eshop-cartservice
-          image: 339713080826.dkr.ecr.us-east-1.amazonaws.com/eshop-cartservice:latest
+          image: 894231944791.dkr.ecr.us-east-1.amazonaws.com/eshop-cartservice:latest
           ports:
           - containerPort: 8091
           env:

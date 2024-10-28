@@ -21,7 +21,7 @@ spec:
     spec:
       containers:
         - name: eshop-frontend
-          image: 339713080826.dkr.ecr.us-east-1.amazonaws.com/eshop-frontend:latest
+          image: 894231944791.dkr.ecr.us-east-1.amazonaws.com/eshop-frontend:latest
           ports:
           - containerPort: 8080
           resources:

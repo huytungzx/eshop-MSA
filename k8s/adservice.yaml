@@ -21,7 +21,7 @@ spec:
     spec:
       containers:
         - name: eshop-adservice
-          image: 339713080826.dkr.ecr.us-east-1.amazonaws.com/eshop-adservice:latest
+          image: 894231944791.dkr.ecr.us-east-1.amazonaws.com/eshop-adservice:latest
           ports:
           - containerPort: 8095
           env:

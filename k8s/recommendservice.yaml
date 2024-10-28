@@ -22,7 +22,7 @@ spec:
       terminationGracePeriodSeconds: 5
       containers:
       - name: eshop-recommendservice
-        image: 339713080826.dkr.ecr.us-east-1.amazonaws.com/eshop-recommendservice:latest
+        image: 894231944791.dkr.ecr.us-east-1.amazonaws.com/eshop-recommendservice:latest
         ports:
         - containerPort: 8093
         env:

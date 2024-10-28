@@ -21,7 +21,7 @@ spec:
     spec:
       containers:
         - name: eshop-backend
-          image: 339713080826.dkr.ecr.us-east-1.amazonaws.com/eshop-backend:latest
+          image: 894231944791.dkr.ecr.us-east-1.amazonaws.com/eshop-backend:latest
           ports:
           - containerPort: 8090
           env:

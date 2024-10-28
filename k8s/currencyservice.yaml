@@ -22,7 +22,7 @@ spec:
       terminationGracePeriodSeconds: 5
       containers:
       - name: eshop-currencyservice
-        image: 339713080826.dkr.ecr.us-east-1.amazonaws.com/eshop-currencyservice:latest
+        image: 894231944791.dkr.ecr.us-east-1.amazonaws.com/eshop-currencyservice:latest
         ports:
         - containerPort: 8094
         env:
